@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Bạn Đắt Giá Bao Nhiêu",
+    "author": "Vãn Tình",
+    "cover": "https://i.imgur.com/Vj2MZxW.jpg",
+    "pdf_url": "https://raw.githubusercontent.com/ThuHoan45/sachhay/main/B%E1%BA%A1n%20%C4%91%E1%BA%AFt%20gi%C3%A1%20bao%20nhi%C3%AAu.pdf"
+  },
+  {
+    "id": 2,
+    "title": "Hạt Giống Tâm Hồn 1",
+    "author": "Nhiều Tác Giả",
+    "cover": "https://i.imgur.com/bQUmLaS.jpg",
+    "pdf_url": "https://raw.githubusercontent.com/ThuHoan45/sachhay/main/hatgiongtamhon1.pdf"
+  },
+  {
+    "id": 3,
+    "title": "Hạt Giống Tâm Hồn 2",
+    "author": "Nhiều Tác Giả",
+    "cover": "https://i.imgur.com/71MYrrA.jpg",
+    "pdf_url": "https://raw.githubusercontent.com/ThuHoan45/sachhay/main/hatgiongtamhon2.pdf"
+  },
+  {
+    "id": 4,
+    "title": "Hạt Giống Tâm Hồn 3",
+    "author": "Nhiều Tác Giả",
+    "cover": "https://i.imgur.com/YNBt3OL.jpg",
+    "pdf_url": "https://raw.githubusercontent.com/ThuHoan45/sachhay/main/hatgiongtamhon3.pdf"
+  },
+  {
+    "id": 5,
+    "title": "Muôn Kiếp Nhân Sinh",
+    "author": "Nguyên Phong",
+    "cover": "https://i.imgur.com/lYIkDUL.jpg",
+    "pdf_url": "https://raw.githubusercontent.com/ThuHoan45/sachhay/main/muonkiepnhansinh.pdf"
+  }
+]
