@@ -4,7 +4,7 @@
     "title": "Bạn Đắt Giá Bao Nhiêu",
     "author": "Vãn Tình",
     "cover": "https://tiki.vn/blog/wp-content/uploads/2023/09/gioi-thieu-tac-pham-1-1024x1024.jpg",
-    "pdf_url": "https://raw.githubusercontent.com/ThuHoan45/sachhay/main/B%E1%BA%A1n%20%C4%91%E1%BA%AFt%20gi%C3%A1%20bao%20nhi%C3%AAu.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/ThuHoan45/sachhay/main/B%E1%BA%A1n%20%C4%91%E1%BA%AFt%20gi%C3%A1%20bao%20nhi%C3%AAu.pdf",
     "description": "Khuyến khích phụ nữ sống độc lập, yêu bản thân và làm chủ cuộc đời. Giá trị của bạn không do người khác quyết định mà chính bạn tạo nên."
   },
   {
@@ -12,7 +12,7 @@
     "title": "Hạt Giống Tâm Hồn 1",
     "author": "Nhiều Tác Giả",
     "cover": "https://down-vn.img.susercontent.com/file/1f0a3fff228ebc0652fb5199f8f42da2",
-    "pdf_url": "https://raw.githubusercontent.com/ThuHoan45/sachhay/main/hatgiongtamhon1.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/ThuHoan45/sachhay/main/hatgiongtamhon1.pdf",
     "description":"Tuyển tập những câu chuyện cảm động về lòng tốt và nghị lực sống. Giúp người đọc tìm lại niềm tin và sự ấm áp trong cuộc sống."
   },
   {
@@ -20,7 +20,7 @@
     "title": "Hạt Giống Tâm Hồn 13",
     "author": "Nhiều Tác Giả",
     "cover": "https://salt.tikicdn.com/cache/w1200/ts/product/76/29/be/45c6d016c00710143f44c2a075ac0efb.jpg",
-    "pdf_url": "https://raw.githubusercontent.com/ThuHoan45/sachhay/main/hatgiongtamhon2.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/ThuHoan45/sachhay/main/hatgiongtamhon2.pdf",
     "description":"Tập trung vào tinh thần vượt nghịch cảnh và giữ vững niềm tin. Là nguồn động viên tinh thần cho người đang gặp thử thách."
   },
   {
@@ -28,15 +28,15 @@
     "title": "Hạt Giống Tâm Hồn 3",
     "author": "Nhiều Tác Giả",
     "cover": "https://salt.tikicdn.com/media/catalog/product/8/9/8935086841570.u5102.d20170601.t110537.369575.jpg",
-    "pdf_url": "https://raw.githubusercontent.com/ThuHoan45/sachhay/main/hatgiongtamhon3.pdf"
-    "description":""
+    "pdf_url": "https://raw.githubusercontent.com/ThuHoan45/sachhay/main/hatgiongtamhon3.pdf",
+    "description":"Chia sẻ các bài học sống tích cực, yêu thương và vượt qua khó khăn. Truyền cảm hứng nhẹ nhàng để sống tốt hơn mỗi ngày."
   },
   {
     "id": 5,
     "title": "Muôn Kiếp Nhân Sinh",
     "author": "Nguyên Phong",
     "cover": "https://salt.tikicdn.com/cache/w1200/ts/product/30/ee/5a/e2aed009bb558b5d2cfbbe157b428ba4.jpg",
-    "pdf_url": "https://raw.githubusercontent.com/ThuHoan45/sachhay/main/muonkiepnhansinh.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/ThuHoan45/sachhay/main/muonkiepnhansinh.pdf",
     "description":"Chia sẻ các bài học sống tích cực, yêu thương và vượt qua khó khăn. Truyền cảm hứng nhẹ nhàng để sống tốt hơn mỗi ngày.
 
 "
@@ -46,7 +46,7 @@
     "title": "Sự im lặng của bầy cừu",
     "author": "Thomas Haris",
     "cover": "https://tse2.mm.bing.net/th/id/OIP.ERiSbT6CEkm4U62dNLw67AHaKX?pid=Api&P=0&h=220",
-    "pdf_url": "https://raw.githubusercontent.com/ThuHoan45/sachhay/main/suimlangcuabaycuu.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/ThuHoan45/sachhay/main/suimlangcuabaycuu.pdf",
     "description":"Nữ đặc vụ FBI nhờ kẻ sát nhân thông minh để truy tìm tên giết người hàng loạt. Cuốn sách hấp dẫn bởi tâm lý tội phạm và đấu trí căng thẳng."
   }, 
   {
@@ -54,7 +54,7 @@
     "title": "Giết con chim nhại",
     "author": "Harper Lee",
     "cover": "https://salt.tikicdn.com/cache/w1200/ts/product/ea/57/9e/71ddae5c7ce50ab004c810849637576c.jpg",
-    "pdf_url": "https://raw.githubusercontent.com/ThuHoan45/sachhay/main/gietconchimnhai.pdf"
+    "pdf_url": "https://raw.githubusercontent.com/ThuHoan45/sachhay/main/gietconchimnhai.pdf",
     "description":"Phơi bày nạn phân biệt chủng tộc qua cái nhìn ngây thơ của một đứa trẻ. Tác phẩm ca ngợi công lý, lòng dũng cảm và tình người."
   }
   
